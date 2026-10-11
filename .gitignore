@@ -1,0 +1,23 @@
+# Keil MDK 编译产物
+*.o
+*.d
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.crf
+*.lst
+*.sct
+*.dep
+*.bak
+*.uvguix.*
+*.dbg
+
+# 编译输出文件夹
+Objects/
+Listings/
+
+# 系统缓存
+.DS_Store
+Thumbs.db
